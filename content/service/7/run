@@ -1,0 +1,3 @@
+#!/bin/sh
+
+cp -r /workdir/rclone.conf /mnt/data/config
